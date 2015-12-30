@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pablo Fernandez",
+    "longName": "GL Fuzzy Text",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "GL Fuzzy Text",
+    "uuid": "9c5e7b79-cf66-4433-95f5-32fc4d0e8743",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
